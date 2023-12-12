@@ -6,4 +6,4 @@
   - [소문난 칠공주](https://www.acmicpc.net/problem/1941)  
   - [계단 오르기](https://www.acmicpc.net/problem/2579)
   - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
-  - [폴리오미노](https://www.acmicpc.net/problem/1343) ⭕ 31120KB, 44ms
+  - [폴리오미노](https://www.acmicpc.net/problem/1343) ⭕ 31120KB, 44ms | 리팩토링 필요 (30616KB, 32ms)
