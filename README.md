@@ -11,6 +11,6 @@
 ## 5주차 
 - 2023.12.15 ~ 2023.12.20
     - [음식물 피하기](https://www.acmicpc.net/problem/1743)
-    - [연속합](https://www.acmicpc.net/problem/1912) ⭕ 38828KB, 76ms | 리팩토링 필요 (36368KB, 56ms)
+    - [연속합](https://www.acmicpc.net/problem/1912) ⭕ 38828KB, 76ms | ⭕ 리팩토링 완료 38828KB, 60ms
     - [나이트의 이동](https://www.acmicpc.net/problem/7562)
     - [수 묶기](https://www.acmicpc.net/problem/1744)
